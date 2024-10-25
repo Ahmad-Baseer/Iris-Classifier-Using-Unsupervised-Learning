@@ -7,6 +7,7 @@ on:
       - app.py
       - requirements.txt
       - prediction_helper.py
+      - style.css
   workflow_dispatch:
 
 jobs:
@@ -37,3 +38,4 @@ jobs:
           huggingface-cli upload AhmadHashim/Iris-Classifier-Using-Unsupervised-Learning ./model.sav --repo-type=space --commit-message="Sync local Space with Hub"
           huggingface-cli upload AhmadHashim/Iris-Classifier-Using-Unsupervised-Learning ./requirements.txt --repo-type=space --commit-message="Sync local Space with Hub"
           huggingface-cli upload AhmadHashim/Iris-Classifier-Using-Unsupervised-Learning ./prediction_helper.py --repo-type=space --commit-message="Sync local Space with Hub"
+          huggingface-cli upload AhmadHashim/Iris-Classifier-Using-Unsupervised-Learning ./style.css --repo-type=space --commit-message="Sync local Space with Hub"
