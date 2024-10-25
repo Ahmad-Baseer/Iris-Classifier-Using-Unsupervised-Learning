@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-Status Badge: [![Sync to Hugging Face hub](https://github.com/AhmadHashim/Iris-Classifier-Using-Unsupervised-Learning/actions/workflows/CD_to_HuggingFace.yml/badge.svg)](https://github.com/AhmadHashim/Iris-Classifier-Using-Unsupervised-Learning/actions/workflows/CD_to_HuggingFace.yml/)
+Status Badge: [![Sync to Hugging Face hub](https://github.com/Ahmad-Baseer/Iris-Classifier-Using-Unsupervised-Learning/actions/workflows/CD_to_HuggingFace.yml/badge.svg)](https://github.com/Ahmad-Baseer/Iris-Classifier-Using-Unsupervised-Learning/actions/workflows/CD_to_HuggingFace.yml/)
 
 # How to run the application
 
